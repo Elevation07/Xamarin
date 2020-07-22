@@ -1,33 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ACER\\source\\repos\\App7\\App7\\App7\\App7.csproj": {}
+    "/Users/macbookpro/Documents/Projects/Xamarin/App7/App7/App7.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ACER\\source\\repos\\App7\\App7\\App7\\App7.csproj": {
+    "/Users/macbookpro/Documents/Projects/Xamarin/App7/App7/App7.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ACER\\source\\repos\\App7\\App7\\App7\\App7.csproj",
+        "projectUniqueName": "/Users/macbookpro/Documents/Projects/Xamarin/App7/App7/App7.csproj",
         "projectName": "App7",
-        "projectPath": "C:\\Users\\ACER\\source\\repos\\App7\\App7\\App7\\App7.csproj",
-        "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ACER\\source\\repos\\App7\\App7\\App7\\obj\\",
+        "projectPath": "/Users/macbookpro/Documents/Projects/Xamarin/App7/App7/App7.csproj",
+        "packagesPath": "/Users/macbookpro/.nuget/packages/",
+        "outputPath": "/Users/macbookpro/Documents/Projects/Xamarin/App7/App7/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/Users/macbookpro/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://packagesource": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.0": {
@@ -68,7 +61,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
         }
       }
     }
