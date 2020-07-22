@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\App7\App7\App7.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+C:\Users\ACER\source\repos\App7\App7\App7.Android\obj\Debug\90\build.props
+C:\Users\ACER\source\repos\App7\App7\App7.Android\obj\Debug\90\adb.props
+C:\Users\ACER\source\repos\App7\App7\App7.Android\obj\Debug\90\App7.Android.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\App7\App7\App7.Android\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\ACER\source\repos\App7\App7\App7.Android\obj\Debug\90\res.flag
+C:\Users\ACER\source\repos\App7\App7\App7.Android\obj\Debug\90\flata\compiled.flata
